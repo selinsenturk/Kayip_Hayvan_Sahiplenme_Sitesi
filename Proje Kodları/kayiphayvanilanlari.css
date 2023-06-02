@@ -1,0 +1,46 @@
+body{
+    background: url(köpek.jpg);
+    height: 500px;
+    width: 250px;
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.kayip-ilan{
+    width: 70%;
+    height: 60%;
+    padding: 1%;
+    text-align: center;
+    background-color: rgb(172, 115, 57);
+    position:absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.kayip-ilan a{
+    text-decoration: none;
+    color:rgb(12, 12, 12);
+    font-size: xx-large;
+}
+
+h1{
+    
+    color:rgb(12, 12, 12);
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    background: #b3cfd1;;
+    position:absolute;
+    top: 10%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    overflow: hidden;
+    border-radius: 44px;
+    
+}

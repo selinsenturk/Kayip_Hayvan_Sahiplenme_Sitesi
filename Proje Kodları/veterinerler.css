@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(köpek.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    
+}
+h1{
+    
+    color:rgb(12, 12, 12);
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    background: #b3cfd1;;
+    position:absolute;
+    top: 12%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    overflow: hidden;
+    border-radius: 12px;
+    
+}
+
+p{
+
+    color:rgb(12, 12, 12);
+    width: 800px;
+    padding: 100px;
+    text-align:start;
+    background: rgb(172, 115, 57);
+    position:absolute;
+    top: 100%;
+    left:50%;
+    transform: translate(-50% ,-50%);
+    overflow: hidden;
+    border-radius: 15px;
+    font-size: large;
+}
+a
+{
+    text-decoration: none;
+    color:rgb(12, 12, 12);
+    font-size: xx-large;
+    padding-left: 45%;
+}
